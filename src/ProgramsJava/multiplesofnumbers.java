@@ -4,7 +4,7 @@ public class multiplesofnumbers {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		
+		//multiples of numbers commit......
 		int result=multiply(6,10);
 		System.out.println(result);
 
